@@ -10,12 +10,12 @@ module.exports = {
   ],
   theme: {
     extend: {},
-    // colors: {
-    //   'primarys-bg': '#ddacf5',
-    //   'primarys-font': 'white',
-    //   'darks-bg': '#ert444',
-    //   'secondarys-font': 'black',
-    // },
+    colors: {
+      'primarys-bg': '#F3F4F6',
+      'primarys-font': 'white',
+      'darks-bg': '#ert444',
+      'secondarys-font': 'black',
+    },
   },
   
   plugins: [],
